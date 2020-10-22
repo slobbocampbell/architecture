@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triage Data"
+    id="9f260868-942b-4af7-9dc4-fc3f1b2298ea"
+    documentation="Prioritise the Patching based on the available data and risk profile."/>

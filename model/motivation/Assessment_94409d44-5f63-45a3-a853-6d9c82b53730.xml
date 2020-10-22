@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitigation - Deduplication"
+    id="94409d44-5f63-45a3-a853-6d9c82b53730"
+    documentation="Ensure any duplication of log data is kept to a minimum.  "/>

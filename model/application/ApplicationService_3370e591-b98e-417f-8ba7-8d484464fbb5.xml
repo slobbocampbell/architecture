@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anti Spam"
+    id="3370e591-b98e-417f-8ba7-8d484464fbb5">
+  <properties
+      key="Risk Rating"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Understanding of the Business Threats"
+    id="36b3983d-39e7-468a-ac2e-3a9b56cdc8fb"
+    documentation="The Technical misuse and abuse cases are informed by the business misuse and abuse cases.  If the team implementing the rules don't know what the business is worried about how can they detect it. "/>

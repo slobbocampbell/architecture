@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring - Recover"
+    id="f50ef492-3853-434b-b825-dc3e9c550ec3"
+    documentation="If an incident reaches a point where damage has occurred then a recovery response is required.  This recovery effort is led by the SoC but in most cases carried out by specialist areas.  This may include Legal responses and management of the organisations reputation via media management, customer comms etc."/>

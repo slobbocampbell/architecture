@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SoC Delivery Manager"
+    id="6e30aa6e-5827-435a-8dd3-61d1f18189fc"
+    documentation="The SOC Lead is a role that demands a big picture view. This person is coordinating response to threats through managing other team members effectively. They run the SOC on a day-to-day bases, hands-on."/>

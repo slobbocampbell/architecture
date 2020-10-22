@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location of source Data"
+    id="1682b20d-110e-427c-a5f3-c0ef94fa9c1b"
+    documentation="Increasingly the location of data can be an issue.  This is increasing with the adoption of cloud services.  The sheer volume of data that is created by the logging mechanisms introduces issues and cost.  Storage and transmission becomes both operationally and financially expensive.  &#xA;"/>

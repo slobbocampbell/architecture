@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM - Local Storage"
+    id="2a7b27e3-ceac-4f56-a283-10347978777a"
+    documentation="Used to store and process recent logs."/>

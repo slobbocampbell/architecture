@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intelligence Processing"
+    id="3fc8b0d9-ee85-40cc-81ec-ca65b7f4a0cc"
+    documentation="Convert info into intelligence through a structured series of concurrent actions subdivided into 3 distinct areas.&#xA;1. Evaluation/Collation -&#xA;The information received is validated through Evaluation of the reliability and credibility of information.  Information is collated into the Analysis file structure as appropriate.&#xA;2. Interpretation/Analysis -&#xA;‘So What’ - subject information to a systematic, logical and reasoned analysis process, drawing on corporate knowledge and understanding supported by analytical tools and techniques to establish meaning and content.&#xA;3. Integration/Assessment -&#xA;All information is fused with all source material to generate a more complete and holistic picture of the environment or situation.  Fused analysed information is converted into intelligence  and a prediction  or assessment made based on knowledge, judgement, creativity, skill and intuition."/>

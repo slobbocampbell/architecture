@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intelligence Collection"
+    id="b66496d5-0e01-492e-a4f6-757e44fd2390"
+    documentation="Receive intelligence and identify potential threats and risks.&#xA;- Information from Systems&#xA;- Intelligence from partners&#xA;- System Performance&#xA;- Knowledge exploitation&#xA;- Open source information"/>

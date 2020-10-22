@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Build Compliance"
+    id="b413e032-b735-4602-b856-bf92ef172a77"
+    documentation="Build Compliance is where an existing endpoint, network device etc is checked for compliance to the organisations defined build standard.  "/>

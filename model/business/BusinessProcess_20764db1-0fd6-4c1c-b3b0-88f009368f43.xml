@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring - Maintain"
+    id="20764db1-0fd6-4c1c-b3b0-88f009368f43"
+    documentation="The SoC environment will constantly evolve to meet changes to the Threat landscape and other factors.  These include;&#xA;- Tuning&#xA;- Inventory of monitored systems and monitoring configurations&#xA;- Training of staff&#xA;- Integrity of logs and  configurations&#xA;- Replay of scenarios to improve the solution or detect previously unbeknown incidents&#xA;- Develop and Maintain use cases and detection criteria"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Static Analysis Security Testing (SAST)"
+    id="8f9ffb9a-540e-427d-9a8f-5d7831a829bc"
+    documentation="Static Application Security Testing (SAST), which is a white-box testing methodology. A tester using SAST examines the application from the inside, searching its source code for conditions that indicate that a security vulnerability might be present."/>

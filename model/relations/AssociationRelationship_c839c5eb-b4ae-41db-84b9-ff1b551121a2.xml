@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Site to Site VPN Tunnel"
+    id="c839c5eb-b4ae-41db-84b9-ff1b551121a2">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_ecd345d7-7548-432b-9615-6811048b2c3f.xml#ecd345d7-7548-432b-9615-6811048b2c3f"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_ecd345d7-7548-432b-9615-6811048b2c3f.xml#ecd345d7-7548-432b-9615-6811048b2c3f"/>
+</archimate:AssociationRelationship>

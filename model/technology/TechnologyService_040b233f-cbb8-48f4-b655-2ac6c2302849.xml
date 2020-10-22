@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Orchestration and Response (SOAR)"
+    id="040b233f-cbb8-48f4-b655-2ac6c2302849"
+    documentation="SOAR is used to orchestrate the tedious repetative tasks."/>

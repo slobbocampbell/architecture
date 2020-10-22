@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Build Image (Playbook/Cookbook)"
+    id="6cb34683-7b0b-4f01-ab4d-6d0a8a621a8b"
+    documentation="Codified instructions for building infrastructure.&#xA;&#xA;Written in various languages such as YAML, JINJA2"/>

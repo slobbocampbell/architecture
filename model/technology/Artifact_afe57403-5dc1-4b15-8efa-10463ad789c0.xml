@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Attack Pattern Enumeration and Characterisation (CAPEC)"
+    id="afe57403-5dc1-4b15-8efa-10463ad789c0"
+    documentation="Catalog of attack patterns along with a comprehensive schema and classification taxonomy created to assist in the building of secure software.&#xA;&#xA;https://capec.mitre.org/"/>

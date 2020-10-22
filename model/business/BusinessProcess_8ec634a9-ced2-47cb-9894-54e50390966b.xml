@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alert Clients of Vulnerability"
+    id="8ec634a9-ced2-47cb-9894-54e50390966b"
+    documentation="For Critical vulnerabilities that need immediate attention.  These should be addressed immediately by client especially if exploit could impact Getronics operations."/>

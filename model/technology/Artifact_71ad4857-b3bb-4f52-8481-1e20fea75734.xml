@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Structured Threat Information eXpression (STIX including CYBOX)"
+    id="71ad4857-b3bb-4f52-8481-1e20fea75734"
+    documentation="Language and serialisation format used to exchange cyber threat intelligence (CTI)"/>

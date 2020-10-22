@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIS Benchmarks"
+    id="784b352a-f920-449e-b108-18fa09cadee4"
+    documentation="Configuration templates from the Centre for Internet Security.&#xA;Contains 140 plus templates for secure configs. &#xA;&#xA;https://www.cisecurity.org/cis-benchmarks/"/>

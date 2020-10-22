@@ -1,0 +1,5 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tamperproof - Log Data"
+    id="4c0a20e9-2d2b-45bf-bfd8-1aa00d216972"
+    documentation="The log data both at source, in transit and in storage must be protected from tampering."/>

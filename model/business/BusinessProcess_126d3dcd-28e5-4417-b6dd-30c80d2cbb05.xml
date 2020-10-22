@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define and Maintain Compliance Checks"
+    id="126d3dcd-28e5-4417-b6dd-30c80d2cbb05"
+    documentation="This set of processes is used to ensure that the Security Monitoring environment is operating effectively in particular that it is delivering against the requirements defined within organisation policy, regulation and standards.  For example PCI-DSS has specific requirements defined regarding the logging and monitoring of transactions relating to payment card processing systems this process would be used to provide the evidence necessary to satisfy a PCI-DSS audit. "/>

@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Vulnerability and Assessment Language (OVAL)"
+    id="22444a9d-b6bd-483f-b080-83d6edc2c69b"
+    documentation="Standardised way of how entities can assess and report upon the machine state of computer systems.&#xA;&#xA;https://oval.mitre.org"/>

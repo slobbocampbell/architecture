@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Software Composition Analysis (SCA)"
+    id="9f38e74a-cf42-4d4c-b68e-e1047406afca"
+    documentation="Tracks the origin and security status of open source components used within software.  It identifies vulnerabilities as well as highlights any licencing issues."/>

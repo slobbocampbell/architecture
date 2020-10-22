@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conditional Access"
+    id="0f9d7d80-ad66-48ba-ad2f-7995ace483c8"
+    documentation="Conditional access is a set of policies and configurations that control which devices have access to various services and data sources. &#xA;&#xA;Microsoft&#xA;In the Microsoft environment, conditional access works with the Office 365 suite of products, as well as with SaaS apps which are configured in Azure Active Directory.&#xA;The Microsoft option considers the following conditions;&#xA;- User and Group - Who the user is and what groups they belong to in Azure AD.&#xA;- Cloud Application requested - These are cloud applications protected by a Cloud application proxy.&#xA;- Device State - Whether the device is managed or BYOD&#xA;- Location (IP range) - Where the user is connecting from.&#xA;- Client application - the type of application the user is connecting from (web app, mobile app, thick client, etc).&#xA;- Sign in Risk - using Azure AD Identity Protection.&#xA;&#xA;Google Cloud&#xA;Google Cloud Armour provides Geographic and IP based Access control which it calls  &quot;Geo-based Access Control&quot;.">
+  <properties
+      key="3rd Party Options"/>
+  <properties
+      key="Amazon Web Services Product"/>
+  <properties
+      key="Azure Product"
+      value="Microsoft Conditional Access (inc Azure AD Identity Protection)"/>
+  <properties
+      key="Google Product"
+      value="Google Cloud Armour"/>
+  <properties
+      key="Risk Rating"/>
+</archimate:ApplicationService>

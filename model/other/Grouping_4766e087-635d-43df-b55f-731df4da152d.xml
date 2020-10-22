@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Intelligence and Investigation"
+    id="4766e087-635d-43df-b55f-731df4da152d"
+    documentation="This is a higher level function and focuses on the organisation threats and risks which are then fed to the Threat Analysts to break down in to descrete threats which can be used in threat hunting, misuse and abuse case development and Cyber Threat Analysis.  For example in a banking organisation this role pays particular interest to the high level threats such as banking malware affecting the industry.  Assesses the potential impact on the organisation then passes this on to Threat Analysts to develop the necessary intelligence queries for specific pieces of the banking malware."/>

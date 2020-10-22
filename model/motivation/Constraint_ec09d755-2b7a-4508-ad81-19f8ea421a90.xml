@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Volume of Data"
+    id="ec09d755-2b7a-4508-ad81-19f8ea421a90"
+    documentation="Data storage is costly and SIEM systems become very expensive due to the data costs involved.  OFten multiple copies of the data can be found.  The source system will normally keep a copy locally and forward the even data on to the SIEM system.  "/>

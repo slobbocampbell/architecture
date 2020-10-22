@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Any change to trusted (signed) code invalidates the signature and marks the code as untrusted until the code has been retested and signed with a new signature."
+    id="1e2ef2a8-e87b-470e-96c6-2c4eb28779e6"/>

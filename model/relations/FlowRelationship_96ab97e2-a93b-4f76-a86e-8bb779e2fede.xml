@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reclassify"
+    id="96ab97e2-a93b-4f76-a86e-8bb779e2fede">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_da2e4660-edf2-4290-b55e-bb32a81e10a1.xml#da2e4660-edf2-4290-b55e-bb32a81e10a1"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_f23b3c92-50c6-408d-9fa5-e8bbf0bd8f28.xml#f23b3c92-50c6-408d-9fa5-e8bbf0bd8f28"/>
+</archimate:FlowRelationship>

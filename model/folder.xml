@@ -1,0 +1,13 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Published Enterprise Security Architecture"
+    id="bdd3a9ea-7cb0-44b3-92b0-e8499df18902"
+    purpose="This project is a collection of viewpoints which are agnostic in nature and designed to be used by any organisation.  Alignment won't be exact but each product gives the reader a starting point to modify and extend to suit their own organisation environment.  &#xA;&#xA;The project will hopefully one day contribute to my Sabsa Masters thesis but has been done to further my own knowledge and understanding but to also share my own experience and knowledge with others. &#xA;&#xA;This is a work in progress and over time I will be adding description to each element to aid in understanding.&#xA;&#xA;The notation is Archimate (ver 3) and the diagrams have been developed in the Archi tool. https://www.archimatetool.com&#xA;&#xA;I have tried to develop the diagrams using the Archimate colours but aligned to the SABSA taxonomy.  Not easy as the SABSA matrix is richer but here is it roughly.&#xA;Purple Colour - Archimate - Motivation > SABSA - Contextual and Conceptual &#xA;Yellow Colour - Archimate - Business > SABSA - Conceptual, Logical and Component (for the Roles and Responsibilities) &#xA;Green Colour - Archimate - Technology > SABSA - SABSA - Physical and Component&#xA;&#xA;To view the diagrams click on &quot;Views&quot; to the left &lt;----&#xA;&#xA;I am happy to provide PDF or Archi versions of these diagrams.  Just email me on esa@assuredcontrol.com"
+    version="4.6.0">
+  <properties
+      key="Author"
+      value="Rob Campbell"/>
+  <properties
+      key="Copywrite"
+      value="Free to use, reproduce and modify as long as credit is given to the original author."/>
+</archimate:ArchimateModel>

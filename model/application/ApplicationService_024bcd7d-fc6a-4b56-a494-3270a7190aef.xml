@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email Advanced Threat Protection"
+    id="024bcd7d-fc6a-4b56-a494-3270a7190aef"
+    documentation="Uses threat intelligence from multiple sources to analyse and block phishing and malware from email communications."/>

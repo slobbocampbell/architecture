@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RISK - Duplicating services across multiple cloud platforms"
+    id="4e110230-9fc7-4413-a61e-96d7c0f6663b"
+    documentation="If the organisation continues to introduce different cloud platforms rather than standardise on 1 then the cost and complexity will continue to increase.  This will require additional resources (people and technology (storage, processing etc)) and will likely diminish the SoC effectiveness.  "/>

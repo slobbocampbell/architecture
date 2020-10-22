@@ -1,0 +1,18 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accessible - data"
+    id="40b135dd-a1f7-4cf2-9b9f-e17a61c66ba7"
+    documentation="Data needs to be accessible to enable accurate and effective identification of events and incidents.">
+  <properties
+      key="Classification"
+      value="Technology"/>
+  <properties
+      key="Measurement approach"/>
+  <properties
+      key="Metric"/>
+  <properties
+      key="Performance Target"
+      value="100% of all relevant intelligence information (logs, etc)"/>
+  <properties
+      key="Industry"/>
+</archimate:Outcome>

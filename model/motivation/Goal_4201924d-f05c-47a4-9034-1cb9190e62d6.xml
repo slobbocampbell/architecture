@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repeatable consistant deployment of secure builds"
+    id="4201924d-f05c-47a4-9034-1cb9190e62d6"
+    documentation="Hand built infrastructure introduces the risk that mistakes or shortcuts will leave the infrastructure vulnerable.  It also encourages things like strong passwords on system and  service accounts.  All of a suddent the use of 30 character passwords is not distasteful to the engineer as they don't have to enter it a dozen times.  "/>

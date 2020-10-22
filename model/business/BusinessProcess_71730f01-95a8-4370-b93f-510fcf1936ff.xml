@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring - Determine"
+    id="71730f01-95a8-4370-b93f-510fcf1936ff"
+    documentation="Events identified as suspicious are sorted into a prioritised order and investigated."/>

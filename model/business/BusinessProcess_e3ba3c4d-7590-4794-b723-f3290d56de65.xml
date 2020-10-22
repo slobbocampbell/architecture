@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Harden Build"
+    id="e3ba3c4d-7590-4794-b723-f3290d56de65"
+    documentation="This process builds the hardened platform.  In reality this is likely to be multiple processes which are operated by different stakeholders.  In some cases it might be manual and time consuming but the goal is to automate this process to avoid mistakes during the build which could leave the delivered platform vulnerable.  "/>

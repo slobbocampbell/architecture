@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="If Recovery Required"
+    id="31809d28-db5e-4cd6-a032-9698e8e8edcc">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_da2e4660-edf2-4290-b55e-bb32a81e10a1.xml#da2e4660-edf2-4290-b55e-bb32a81e10a1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_777f31a3-5a4b-4f18-886c-76902a5c6bdf.xml#777f31a3-5a4b-4f18-886c-76902a5c6bdf"/>
+</archimate:SpecializationRelationship>

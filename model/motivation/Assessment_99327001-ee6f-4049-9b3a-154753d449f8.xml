@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RISK - Data Gravity"
+    id="99327001-ee6f-4049-9b3a-154753d449f8"
+    documentation="Currently the model followed is to bring the log data to the processing point.  As Cloud adoption increases the requirements around both disk and processing capacity will require constant re-evaluation and lead to increasing cost.  Industry has started to think about moving the storage and processing from a centralised model to a de-centralised model which would require significant rework of the SIEM solution to accomodate.  "/>

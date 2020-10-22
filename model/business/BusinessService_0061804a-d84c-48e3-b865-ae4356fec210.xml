@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Breach Attack Simulation (BAS)"
+    id="0061804a-d84c-48e3-b865-ae4356fec210"
+    documentation="Automated service that performs an continuous test of your defenses (akin to a pen test)."/>

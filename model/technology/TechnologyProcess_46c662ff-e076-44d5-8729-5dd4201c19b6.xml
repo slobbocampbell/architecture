@@ -1,0 +1,5 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM - Aggregate Data"
+    id="46c662ff-e076-44d5-8729-5dd4201c19b6"
+    documentation="Aggregation is the process of moving data and log files from disparate sources into a common repository. Collected data is placed into a homogenous data store – typically purpose-built flat file repositories or relational databases – where analysis, reporting, and forensics occur; and archival policies are applied."/>

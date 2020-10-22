@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extensible Configuration Checklist Description Format (XCCDF)"
+    id="fbbdf7ed-d502-4abb-a174-6fc4df98196b"
+    documentation="XCCDF is a specification language for writing security checklists, benchmarks, and related kinds of documents.&#xA;&#xA;https://csrc.nist.gov/Projects/Security-Content-Automation-Protocol/Specifications/xccdf&#xA;"/>

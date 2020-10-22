@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather data"
+    id="33dadda1-fea6-40c7-b0a0-14d70b2175f3"
+    documentation="The vulnerability data and the Patch status data is gathered together."/>

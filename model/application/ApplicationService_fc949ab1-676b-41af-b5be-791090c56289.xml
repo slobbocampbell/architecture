@@ -1,0 +1,13 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Message Tracing"
+    id="fc949ab1-676b-41af-b5be-791090c56289">
+  <properties
+      key="Risk Rating"/>
+  <properties
+      key="Amazon Web Services Product"/>
+  <properties
+      key="Azure Product"/>
+  <properties
+      key="Google Product"/>
+</archimate:ApplicationService>

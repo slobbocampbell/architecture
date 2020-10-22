@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define and Maintain Intelligence Queries"
+    id="1afdfe45-513a-44f3-9eb2-b2af1f731487"
+    documentation="This process supports the development and maintenance of analysis queries to support the gathering of intelligence data.  This is difference from normal alerting as it is generally used to analyse data for identifying trends or replaying scenarios against the historical data."/>

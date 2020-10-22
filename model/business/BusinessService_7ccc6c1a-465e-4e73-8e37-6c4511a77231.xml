@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dynamic Application Security Testing (DAST)"
+    id="7ccc6c1a-465e-4e73-8e37-6c4511a77231"
+    documentation="Dynamic Application Security Testing (DAST) is a black-box security testing methodology in which an application is tested from the outside. A tester using DAST examines an application when it is running and tries to hack it just like an attacker would."/>

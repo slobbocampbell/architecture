@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM - Archive"
+    id="c814129e-51c2-45dd-91ce-cd1edac37724"
+    documentation="Long term storage of logs.  Required for Trend Analysis, Threat Hunting and to meet regulatory requirements."/>

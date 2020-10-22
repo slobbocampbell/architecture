@@ -1,0 +1,16 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTP(S) Load Balancing"
+    id="140d4e2a-1ac5-4985-a546-01ea6d9e300a">
+  <properties
+      key="3rd Party Options"/>
+  <properties
+      key="Amazon Web Services Product"/>
+  <properties
+      key="Azure Product"/>
+  <properties
+      key="Google Product"
+      value="Google Cloud Armour"/>
+  <properties
+      key="Risk Rating"/>
+</archimate:ApplicationService>

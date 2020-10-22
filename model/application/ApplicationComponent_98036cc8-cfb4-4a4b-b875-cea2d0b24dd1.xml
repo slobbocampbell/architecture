@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vulnerability Scanner"
+    id="98036cc8-cfb4-4a4b-b875-cea2d0b24dd1"
+    documentation="Scans both the platform and the delivered code.&#xA;&#xA;Burpsuite, Kali Linux"/>

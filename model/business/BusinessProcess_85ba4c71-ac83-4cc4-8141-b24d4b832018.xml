@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring - Respond"
+    id="85ba4c71-ac83-4cc4-8141-b24d4b832018"
+    documentation="Responses to suspicious activity.  They come in the form of Alerts, Enhancements, Trends, Reports, Incidents."/>

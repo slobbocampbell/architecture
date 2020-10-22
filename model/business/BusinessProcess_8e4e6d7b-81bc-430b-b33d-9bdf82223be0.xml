@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create Logging Configuration"
+    id="8e4e6d7b-81bc-430b-b33d-9bdf82223be0"
+    documentation="The logging configuration is dependant on the development of Misuse and Abuse Cases.  The Misuse and Abuse Cases will tell you what data needs to be collected to establish the data that needs to be collected.  Log data is expensive to store so you want to try and capture only the data you need. "/>

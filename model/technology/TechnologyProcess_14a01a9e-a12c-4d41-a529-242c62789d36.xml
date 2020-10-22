@@ -1,0 +1,5 @@
+<archimate:TechnologyProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM - Normalise data"
+    id="14a01a9e-a12c-4d41-a529-242c62789d36"
+    documentation="Event normalisation consists of breaking each field of a raw event into variables and combining them into views that are relevant."/>

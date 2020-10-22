@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAST Tooling"
+    id="92109c29-e22d-42ac-a889-2c2a245bc2db"
+    documentation="Examples of SAST Tooling on the market;&#xA;- Appknox&#xA;- Coverity&#xA;- HCL AppScan&#xA;- CheckMarx&#xA;- Kiuwan Code Security &amp; Insights&#xA;- AttackFlow&#xA;- CoreOS Clair&#xA;- bugScout&#xA;- PT Application Inspector&#xA;- CodePeer&#xA;- CodeSonar&#xA;- Jtest&#xA;- Whitehat Sentinal&#xA;- VisualCodeGrepper&#xA;- Xanitizer&#xA;- BlueClosure&#xA;- Code Dx Enterprise&#xA;- CodePatrol&#xA;"/>

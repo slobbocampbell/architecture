@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Malware Attribute Enumeration and Characterisation (MAEC)"
+    id="cc3c243c-cf44-4986-b78c-22f11a89cb68"
+    documentation="Structured language for encoding and sharing information about malware. Uses attributes such as behaviours, artefacts, and relationships between malware samples"/>

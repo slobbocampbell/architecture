@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reduce the need for expensive time consuming infrastructure security testing."
+    id="c6780149-88b4-4f81-92b3-414f10b99bae"
+    documentation="When a standard secure build is used then the only testing is the delta between the standard secure build and the changes made.  This will decrease the overhead that security testing incurs both financially and in time."/>

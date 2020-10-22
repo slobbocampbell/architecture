@@ -1,0 +1,4 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="All signatures must utilise timestamps to prevent code becoming untrusted due to certificate expiration"
+    id="228063e5-1ce5-49c5-9382-1792acc62b7f"/>

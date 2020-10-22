@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCA Tooling"
+    id="c962f597-ae02-487f-8ba0-d68d3baf73fe"
+    documentation="Examples of Software Composition Analysis Tooling include &#xA;- Veracode&#xA;- Sonatype Nexus Platform&#xA;- Blackduck&#xA;- Snyk&#xA;- WhiteSource Bolt&#xA;- Whitesource&#xA;- Checkmarx&#xA;- FOSA&#xA;- Cast Highlight&#xA;- Whitehat Sentinal"/>

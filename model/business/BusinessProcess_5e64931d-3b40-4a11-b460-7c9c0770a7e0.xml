@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Define and Maintain SOAR workflows."
+    id="5e64931d-3b40-4a11-b460-7c9c0770a7e0"
+    documentation="The SOAR rules are workflows which execute a defined set of tasks to speed up some of the manual task normally associated with the security service. "/>

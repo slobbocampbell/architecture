@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provisioner"
+    id="b7659ab3-4a76-4ac9-a1a0-22a7b4cff2c2"
+    documentation="Adds an application of component on top of an image.  For example you might have Windows Server gold image which you then add an application server or database on top of.  The Provisioner adds the application server to the gold image.&#xA;&#xA;Using Chef's terminology this would be the component that manages the recipes."/>

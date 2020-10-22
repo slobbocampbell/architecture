@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM - Compliance Workflow Engine"
+    id="b386a862-3c53-4deb-85d1-570859d7f344"
+    documentation="Workflows designed to detect breaches of Compliance against PCI-DSS, HIPPA, SOX, COBIT etc."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gather"
+    id="f7fdad5a-8e9a-4125-8dc9-60eb16de5c17"
+    documentation="For protective monitoring to be effective the raw events recorded on all the in scope hosts and services need to be gathered together.  Once gathered the information is normalised, aggregated and enriched.  This enriched data is then suitable to begin the next phase - The analysis."/>

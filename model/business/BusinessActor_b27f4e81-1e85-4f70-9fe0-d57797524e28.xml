@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIEM Engineer"
+    id="b27f4e81-1e85-4f70-9fe0-d57797524e28"
+    documentation="Security Information and Event Management (SIEM) Engineers fine-tune the SIEM tools needed to identify and repel threats. They work closely with other members of the team, especially if the system is under attack."/>

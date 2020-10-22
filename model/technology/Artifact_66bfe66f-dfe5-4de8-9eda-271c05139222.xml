@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Vulnerabilities and Exposures (CVE)"
+    id="66bfe66f-dfe5-4de8-9eda-271c05139222"
+    documentation="A dictionary of publicly known information security vulnerabilities (i.e., names and “identifiers)"/>

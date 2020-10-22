@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access to relevant data in supply chain control."
+    id="8ed81164-bd75-43d3-836e-5f9d662cc52e"
+    documentation="When an organisation uses third party suppliers in the delivery of services they introduce a situation where the information they need to detect specific misuse and abuse cases is denied them.  This can serverly hamper the effectiveness of the SIEM as the data is not available."/>

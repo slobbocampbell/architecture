@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correlate Data"
+    id="d524e789-5eee-4ff8-8df5-7b6dbe6a86fb"
+    documentation="The data is correlated to identify the devices that are affected by the vulnerability."/>

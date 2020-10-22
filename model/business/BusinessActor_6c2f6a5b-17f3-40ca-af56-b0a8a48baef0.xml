@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Senior Security Analyst"
+    id="6c2f6a5b-17f3-40ca-af56-b0a8a48baef0"
+    documentation="This SOC role steps in to combat higher levels of threat. Senior Security Analysts identify affected systems, review intelligence reports and identify the nature of the attack. They formulate plans to repair damaged assets, keep other assets safe, and work to remove the threat."/>

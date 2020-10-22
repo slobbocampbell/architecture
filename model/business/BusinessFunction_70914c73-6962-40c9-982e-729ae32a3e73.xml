@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy based blocking of vulnerable code"
+    id="70914c73-6962-40c9-982e-729ae32a3e73"
+    documentation="Nexus Firewall from Sonatype provides this functionality.  Sonatype use multiple sources of CVE data to determine the risk.  The Policy engine then blocks according the CVE rating of the code."/>

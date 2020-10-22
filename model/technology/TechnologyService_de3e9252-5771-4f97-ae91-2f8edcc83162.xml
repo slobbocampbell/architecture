@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAST Tooling"
+    id="de3e9252-5771-4f97-ae91-2f8edcc83162"
+    documentation="Examples of DAST Tooling include;&#xA;- HCL AppScan&#xA;- Netsparker&#xA;- Acunetix Vulnerability Scanner&#xA;- Appknox&#xA;- CheckMarx&#xA;- Micro Focus Fortify On Demand&#xA;- Veracode Application Security Platform&#xA;- IBM Application Security on Cloud&#xA;- AppSpider"/>

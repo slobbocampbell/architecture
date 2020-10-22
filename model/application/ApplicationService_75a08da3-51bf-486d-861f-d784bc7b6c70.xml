@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IP Reputation"
+    id="75a08da3-51bf-486d-861f-d784bc7b6c70"
+    documentation="An organisation’s IP reputation depicts the quality of its email sending environment. This means monitoring the reputation of your systems, public IPs and domains as well as the IP and domain reputation of those that interact with your network.&#xA;&#xA;Compromised networks are often used for malicious purposes. If compromised, your system could become a spamming platform or part of a botnet, used for a distributed denial of service attack, or for corporate espionage.&#xA;&#xA;IP addresses that are open proxies, or that send high volumes of spam or viruses to users or spam traps, are assigned a negative reputation. Various services analyse these IP addresses to see if they belong to machines that should not be sending mail.&#xA;&#xA;Every email can be traced back to an IP address, and IP addresses gain an IP reputation based on past incidents. IP addresses are also part of a larger sending environment, typically owned by your email service provider. If an email service provider has allowed IP addresses in its environment to send spam or unwanted bulk email in the past, the IP reputation for that email service provider is affected. Poor IP reputations can lead to more bounces and slower delivery, for all customers in that email service providers environment.&#xA;&#xA;As a an email security control the IP reputation will help reduce the amount of SPAM and unwanted emails arriving in your users email accounts.  Equally your own IP reputation must be maintained otherwise you will find that your legitmate emails will not be received by the intended recipients.  Monitoring your IP reputation is essential.&#xA;&#xA;">
+  <properties
+      key="Risk Rating"/>
+  <properties
+      key="Azure Product"
+      value="Exchange Online Protection"/>
+  <properties
+      key="Amazon Web Services Product"
+      value="Amazon Simple Email Service (SES)"/>
+  <properties
+      key="Google Product"/>
+  <properties
+      key="3rd Party Options"/>
+</archimate:ApplicationService>

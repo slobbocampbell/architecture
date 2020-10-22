@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse Data"
+    id="57d8fa9d-82f7-401e-848c-889253353530"
+    documentation="The data is then analysed to enable a risk based decision.  &#xA;Factors to consider include;&#xA;1. Location of the devices affected by the vulnerability&#xA;2. The difficulty of the vulnerability being exploited&#xA;3. The importance of the service and its data operating on the affected equipment.&#xA;4. The impact of problems with the patching process and unavailability of the service.&#xA;5. Recovery time of the service should the vulnerability be exploited.&#xA;6. The recovery time if the patch fails. &#xA;&#xA;All of these factors will influence "/>

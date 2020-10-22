@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Engineering"
+    id="ae108e0d-3638-415b-93c1-7c8e4c69676e"
+    documentation="This Design and Assurance function operates across the organisation and assists projects and support teams with the security design of systemes and services.  They can operate in either an assurance capacity or design capacity.  A single engineer should not operate in both capacities when engaged on a project.  This is a conflict of interest and will lead to shortcuts and mistakes being made."/>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable rapid application of seurity patching."
+    id="e0fb4312-75cd-428d-beb2-017a564b2e2e"
+    documentation="Automation means that if the mitigation of threat requires a change to a base build the changes can be made and tested then rapidly deployed. "/>

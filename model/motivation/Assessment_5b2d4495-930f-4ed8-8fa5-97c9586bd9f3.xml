@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mitigation - Misuse and Abuse Cases"
+    id="5b2d4495-930f-4ed8-8fa5-97c9586bd9f3"
+    documentation="Define Misuse and Abuse cases to understand what data is required to enable detection of the misuse and abuse case.  This will reduce the volume of data because only necessary data is being captured and processed."/>

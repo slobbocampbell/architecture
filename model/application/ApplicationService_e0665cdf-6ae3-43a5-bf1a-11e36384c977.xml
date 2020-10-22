@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email Policy Based Filtering"
+    id="e0665cdf-6ae3-43a5-bf1a-11e36384c977">
+  <properties
+      key="Risk Rating"/>
+  <properties
+      key="Azure Product"
+      value="Exchange Online Protection"/>
+  <properties
+      key="Amazon Web Services Product"
+      value="Amazon Workmail - Limited support"/>
+  <properties
+      key="Google Product"/>
+</archimate:ApplicationService>

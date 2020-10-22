@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Design Assurance"
+    id="f76694c1-800e-4490-b610-36e947a53a9e"
+    documentation="When engaged in this capacity the engineer reviews the system designs and identifies the threats, risks and opportunities and raises change requests where required to improve the solution design."/>

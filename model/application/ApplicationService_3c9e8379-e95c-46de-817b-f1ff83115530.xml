@@ -1,0 +1,16 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributed Denial of Services Protection"
+    id="3c9e8379-e95c-46de-817b-f1ff83115530">
+  <properties
+      key="Risk Rating"/>
+  <properties
+      key="Azure Product"/>
+  <properties
+      key="Amazon Web Services Product"/>
+  <properties
+      key="Google Product"
+      value="Google Cloud Armour"/>
+  <properties
+      key="3rd Party Options"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Operation Centre - Mission Statement"
+    id="1807743d-a4ab-4759-95a1-4ca68413a451"
+    documentation="Utilising a team of skilled people and operating with well-defined processes and supported by integrated security technologies, the Security Operations Centre (SOC) focus specifically on cyber threats.  &#xA;Specifically, the SOC focuses on cyber threat monitoring, forensic investigation, and incident detection, management and reporting, under the umbrella of an overall security operations environment and clear executive support.  The SOC will be integrated tightly with the broader information security capability and supported by Information Technology (IT).  Without this support, the SOC cannot be successful. &#xA;The SOC must utilise all available sources of threat information, including that provided by the supply chain.  Failure in this results in substandard performance and could lead to a breach."/>

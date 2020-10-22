@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Understanding of the Organisations Risks and Issues"
+    id="ad653d3c-86ee-4c2c-b632-a3decbf0f22e"
+    documentation="When SIEM is outsourced and often even when managed in house the  technical resources focus on common misuse and abuse cases without considering the busines risks and issues.  The result is that the SIEM focuses on the common threats and miss the the ones the business is most concerned about.  &#xA;&#xA;For example.  Consider the FOI is a Trading environment.  In this sort of environment the business threats are closely aligned to a number of things.  &#xA;&#xA;1. Timeliness - trades happen quickly so the it is important that the SIEM system is looking for events that appear to be messing with the transaction processing.  &#xA;2. Accuracy - AKA Integrity.  The traders need to know how much they have to spend especially at both ends of the day because overnight the more cash invested equates to greater dividends.  Money sitting in a bank account isn't earning the investers money.  "/>

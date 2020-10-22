@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Common Vulnerability Scoring System (CVSS)"
+    id="04e7af87-7419-4ad5-a932-7e413dfcbd1e"
+    documentation="Principal characteristics of a vulnerability and associated numerical score reflecting its severity."/>

@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Input - System Performance"
+    id="512c2819-c64c-4f08-852a-4d03561174b4"
+    documentation="This will include data from all the operational management tooling.  This data will provide context and potentially flag when unusual activity is underway.  For instance spikes in TLS session initation can indicate that an attacker is attempting some form of DOS attack or is trying variations of login credentials to try and gain access. "/>

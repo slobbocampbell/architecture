@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Monitoring - Gather"
+    id="d45c395c-3e15-42d5-94f5-b520541d3985"
+    documentation="The data is gathered from various sources and normalised into a standard format."/>
